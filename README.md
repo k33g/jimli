@@ -1,2 +1,2 @@
 # jimli
-Jímlí the the blacksmith
+Jímlí the blacksmith
